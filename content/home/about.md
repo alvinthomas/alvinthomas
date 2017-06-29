@@ -14,7 +14,9 @@ weight = 1
   interests = [
     "Epidemiologic Methods",
     "Organ Transplantation",
-    "mHealth"
+    "mHealth",
+    "Stata",
+    "R"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,7 +26,7 @@ weight = 1
   year = 2016
 
 [[education.courses]]
-  course = "BS in Chemistry-Engineering"
+  course = "BS in Chemistry-Engineering and Minor in Poverty Studies"
   institution = "Washington and Lee University"
   year = 2014
  

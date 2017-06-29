@@ -24,6 +24,7 @@ url = "http://onlinelibrary.wiley.com/doi/10.1111/ajt.14356/full"
 [header]
 image = "headers/landscape-ldf.png"
 caption = "#VizAbstract by @alvinthomas13"
+comments = true
 
 +++
 
