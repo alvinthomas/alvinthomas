@@ -15,3 +15,7 @@ weight = 70
 autolink = true
 
 +++
+
+Feel free to get in contact!
+
+Pronouns: he, him, his

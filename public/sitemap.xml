@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/kidney-space/</loc>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/ergot/</loc>
       <lastmod>2017-06-29T00:00:00+00:00</lastmod>
     </url>
@@ -79,7 +88,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -97,8 +106,18 @@
     
     <url>
     
+      <loc>/tags/mhealth/</loc>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/other/</loc>
-      <lastmod>2017-06-29T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -118,7 +137,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2017-06-29T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -138,7 +157,7 @@
     <url>
     
       <loc>/tags/science/</loc>
-      <lastmod>2017-06-29T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
