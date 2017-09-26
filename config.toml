@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Alvin G. Thomas"
-  role = "Transplantation Epidemiologist"
+  role = "Epidemiologist"
   organization = "Epidemiology Research Group in Organ Transplantation"
   organization_url = "https://transplantepi.org/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -156,7 +156,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "pubmed"
     icon_pack = "ai"
-    link = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Thomas%2C%20Alvin%20G%5BFull%20Author%20Name%5D&cmd=DetailsSearch"
+    link = "https://www.ncbi.nlm.nih.gov/sites/myncbi/1tkwU-3qmqwkx/bibliography/50842911/public/?sort=date&direction=ascending"
 
   [[params.social]]
     icon = "impactstory"
