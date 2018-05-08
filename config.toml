@@ -1,6 +1,6 @@
 baseurl = "https://alvinthomas.github.io/"
 title = "Alvin G. Thomas"
-copyright = "&copy; 2017 Alvin G. Thomas"
+copyright = "&copy; 2017-2018 Alvin G. Thomas"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -22,16 +22,16 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Alvin G. Thomas"
   role = "Epidemiologist"
-  organization = "Epidemiology Research Group in Organ Transplantation"
-  organization_url = "https://transplantepi.org/"
+  organization = "UNC Chapel Hill"
+  organization_url = "https://sph.unc.edu/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "headshot.png"  
-  email = "alvin@jhmi.edu"
+  email = "alvin@statsnips.com"
   address = "Baltimore, MD, USA"
   #office_hours = ""
   #phone = ""
   #skype = ""
-  telegram = ""
+  #telegram = ""
   twitter = "alvinthomas13"
   github = "alvinthomas"
   linkedin = "alvinthomas13"
@@ -181,7 +181,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:alvin@jhmi.edu"
+    link = "mailto:alvin@statsnips.com"
 
 
 # Navigation Links

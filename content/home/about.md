@@ -14,6 +14,8 @@ weight = 1
   interests = [
     "Epidemiological Methods",
     "Organ Transplantation",
+    "Cognitive Aging",
+    "Kidney Disease",
     "mHealth",
     "Stata",
     "R"
@@ -21,8 +23,13 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Epidemiology"
+  institution = "University of North Carolina Chapel Hill"
+  year = "In Progress"
+  
+[[education.courses]]
   course = "MSPH in International Health"
-  institution = "Johns Hopkins University Bloomberg School of Public Health"
+  institution = "Johns Hopkins University"
   year = 2016
 
 [[education.courses]]
@@ -34,8 +41,8 @@ weight = 1
 
 # Biography
 
-Alvin is a Research Data Analyst with the [Epidemiology Research Group in Organ Transplantation (ERGOT)](https://transplantepi.org/) at the [Johns Hopkins University School of Medicine](http://www.hopkinsmedicine.org/). 
+Alvin is a PhD student at [UNC Chapel Hill](https://sph.unc.edu/) in the [Department of Epidemiology](https://sph.unc.edu/epid/epidemiology-landing/). He is fascinated by Neurons and Nephrons. His research focuses on the intersection of kidney disease, cardiovascular health, and cognitive aging.
 
-His research interests include: transplant outcomes in older adults, living donor health, impact of transplantation policies, and the implementation of mHealth technologies. He is also interested in the development and application of advanced epidemiological methods in the field of organ transplantation science.
+Alvin also works with the [Epidemiology Research Group in Organ Transplantation (ERGOT)](https://transplantepi.org/) at the [Johns Hopkins University School of Medicine](http://www.hopkinsmedicine.org/). Alvin is actively engaged in developing mHealth tools for the transplant community including [mKidney](https://www.mkidney.org/) and [Kidney Space](https://www.hopkinsmedicine.org/apps/all-apps/kidney-space).
 
 You can access his [CV](https://github.com/alvinthomas/cv/raw/master/cv.pdf) on [Github](https://github.com/alvinthomas/cv/). Alvin maintains a data science blog with his partner called [StatSnips](https://statsnips.github.io/).
