@@ -1,5 +1,5 @@
 baseurl = "https://alvinthomas.github.io/"
-title = "Alvin G. Thomas"
+title = "Alvin Thomas"
 copyright = "&copy; 2017-2018 Alvin G. Thomas"
 theme = "hugo-academic"
 enableEmoji = true
